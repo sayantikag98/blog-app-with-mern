@@ -8,7 +8,7 @@ import Edit from "./components/Edit";
 import Error from "./components/Error";
 
 function App() {
-  const url = "http://localhost:5000";
+  const url = "https://blog-app-with-mern.herokuapp.com/";
   return (
     <Router>
         <div className = "App">
